@@ -2,7 +2,7 @@
 Changelog for package jackal_viz
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+0.1.0 (2014-09-05)
+------------------
 * Initial release.
 * Contributors: Mike Purvis
