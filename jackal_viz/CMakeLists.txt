@@ -7,6 +7,6 @@ catkin_package()
 
 roslaunch_add_file_check(launch/view_model.launch)
 
-install(DIRECTORY urdf launch
+install(DIRECTORY launch rviz
   DESTINATION ${CATKIN_PACKAGE_SHARE_DESTINATION}
 )
