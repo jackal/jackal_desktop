@@ -2,6 +2,12 @@
 Changelog for package jackal_viz
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+Forthcoming
+-----------
+* Add camera argument to view model
+* Add rviz configuration for navigation demo.
+* Contributors: Shokoofeh Pourmehr, spourmehr
+
 0.2.0 (2014-09-10)
 ------------------
 * Support front_laser arg in view_model.launch.
