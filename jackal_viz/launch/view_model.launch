@@ -1,10 +1,12 @@
 <launch>
   <!-- Jackal accessories which may be modeled. Pass true to enable. -->
   <arg name="front_laser" default="false" />
+  <arg name="camera" default="false"/>
 
   <include file="$(find jackal_description)/launch/description.launch">
     <arg name="accessories" value="true" />
     <arg name="front_laser" value="$(arg front_laser)" />
+    <arg name="camera" value="$(arg camera)" />
   </include>
 
   <param name="use_gui" value="true"/>
