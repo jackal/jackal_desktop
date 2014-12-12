@@ -2,8 +2,8 @@
 Changelog for package jackal_viz
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+0.3.0 (2014-12-12)
+------------------
 * Add camera argument to view model
 * Add rviz configuration for navigation demo.
 * Contributors: Shokoofeh Pourmehr, spourmehr
