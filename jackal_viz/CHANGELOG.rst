@@ -2,6 +2,12 @@
 Changelog for package jackal_viz
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+Forthcoming
+-----------
+* Add version number blocks.
+* Switch view_model to use optenv-style URDF parameterization.
+* Contributors: Mike Purvis
+
 0.3.0 (2014-12-12)
 ------------------
 * Add camera argument to view model
