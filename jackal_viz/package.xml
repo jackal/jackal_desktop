@@ -11,7 +11,7 @@
   <buildtool_depend>catkin</buildtool_depend>
 
   <build_depend>roslaunch</build_depend>
-  <run_depend>jackal_description</run_depend>
+  <run_depend version_gte="0.5">jackal_description</run_depend>
   <run_depend>joint_state_publisher</run_depend>
   <run_depend>rviz</run_depend>
 
