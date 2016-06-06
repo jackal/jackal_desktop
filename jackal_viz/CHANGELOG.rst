@@ -2,8 +2,8 @@
 Changelog for package jackal_viz
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+0.3.2 (2016-06-06)
+------------------
 * Changed laser scan topics to /front/scan.
 * Contributors: Tony Baltovski
 
