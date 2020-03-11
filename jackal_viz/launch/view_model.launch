@@ -6,7 +6,7 @@
     <arg name="config" value="$(arg config)" />
   </include>
 
-  <param name="use_gui" value="true"/>
   <node name="joint_state_publisher" pkg="joint_state_publisher" type="joint_state_publisher" />
+  <node name="joint_state_publisher_gui" pkg="joint_state_publisher_gui" type="joint_state_publisher_gui" />
   <node name="rviz" pkg="rviz" type="rviz" args="-d $(find jackal_viz)/rviz/model.rviz" />
 </launch>
