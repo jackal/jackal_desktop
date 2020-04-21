@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <package>
   <name>jackal_desktop</name>
-  <version>0.3.2</version>
+  <version>0.4.0</version>
   <description>Packages for working with Jackal from a ROS desktop.</description>
 
   <maintainer email="mpurvis@clearpathrobotics.com">Mike Purvis</maintainer>

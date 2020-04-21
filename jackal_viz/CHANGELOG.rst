@@ -2,8 +2,8 @@
 Changelog for package jackal_viz
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+0.4.0 (2020-04-21)
+------------------
 * [jackal_viz] Removed joint_state_publisher since joint_state_publisher_gui is generating the same data.
 * Fix a deprecation warning with the joint state publisher gui
 * Contributors: Chris Iverach-Brereton, Tony Baltovski
