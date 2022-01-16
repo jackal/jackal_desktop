@@ -2,8 +2,8 @@
 Changelog for package jackal_viz
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+0.4.1 (2022-01-16)
+------------------
 * Updated jackal_viz (`#3 <https://github.com/jackal/jackal_desktop/issues/3>`_)
   * Add rqt_gui as run_depend
   * Add rqt directory and launch check
