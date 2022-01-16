@@ -2,6 +2,9 @@
 Changelog for package jackal_desktop
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+Forthcoming
+-----------
+
 0.4.0 (2020-04-21)
 ------------------
 

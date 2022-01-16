@@ -2,6 +2,17 @@
 Changelog for package jackal_viz
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+Forthcoming
+-----------
+* Updated jackal_viz (`#3 <https://github.com/jackal/jackal_desktop/issues/3>`_)
+  * Add rqt_gui as run_depend
+  * Add rqt directory and launch check
+* Diagnostic Viewer (`#2 <https://github.com/jackal/jackal_desktop/issues/2>`_)
+  * Added 'view_diagnostics.launch' to start rqt with console and robot monitor
+  * Added noetic .perspective, now are dependant on ROS_DISTRO
+  * Removed distro specific perspectives
+* Contributors: luis-camero
+
 0.4.0 (2020-04-21)
 ------------------
 * [jackal_viz] Removed joint_state_publisher since joint_state_publisher_gui is generating the same data.
