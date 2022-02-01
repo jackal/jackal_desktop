@@ -1,14 +1,8 @@
-cmake_minimum_required(VERSION 2.8.3)
+cmake_minimum_required(VERSION 3.5)
 project(jackal_viz)
-
-find_package(catkin REQUIRED COMPONENTS roslaunch)
-
-catkin_package()
-
-roslaunch_add_file_check(launch/view_model.launch)
-roslaunch_add_file_check(launch/view_robot.launch)
-roslaunch_add_file_check(launch/view_diagnostics.launch)
+find_package(ament_cmake REQUIRED)
 
 install(DIRECTORY launch rviz rqt
-  DESTINATION ${CATKIN_PACKAGE_SHARE_DESTINATION}
+  DESTINATION share/${PROJECT_NAME}
 )
+ament_package()

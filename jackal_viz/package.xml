@@ -1,5 +1,5 @@
 <?xml version="1.0"?>
-<package>
+<package format="2">
   <name>jackal_viz</name>
   <version>0.4.1</version>
   <description>Visualization launchers and helpers for Jackal.</description>
@@ -8,17 +8,17 @@
 
   <license>BSD</license>
 
-  <buildtool_depend>catkin</buildtool_depend>
+  <buildtool_depend>ament_cmake</buildtool_depend>
 
-  <build_depend>roslaunch</build_depend>
-  <run_depend version_gte="0.5">jackal_description</run_depend>
-  <run_depend>joint_state_publisher</run_depend>
-  <run_depend>joint_state_publisher_gui</run_depend>
-  <run_depend>rqt_console</run_depend>
-  <run_depend>rqt_gui</run_depend>
-  <run_depend>rqt_robot_monitor</run_depend>
-  <run_depend>rviz</run_depend>
+  <exec_depend>jackal_description</exec_depend>
+  <exec_depend>joint_state_publisher</exec_depend>
+  <exec_depend>joint_state_publisher_gui</exec_depend>
+  <exec_depend>rqt_console</exec_depend>
+  <exec_depend>rqt_gui</exec_depend>
+  <exec_depend>rqt_robot_monitor</exec_depend>
+  <exec_depend>rviz</exec_depend>
 
   <export>
+    <build_type>ament_cmake</build_type>
   </export>
 </package>
