@@ -2,6 +2,13 @@
 Changelog for package jackal_desktop
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+Forthcoming
+-----------
+* Fixed jackal_desktop metapackage
+  Added maintainers
+* ROS 2 Port
+* Contributors: David V. Lu, Roni Kreinin
+
 0.4.1 (2022-01-16)
 ------------------
 

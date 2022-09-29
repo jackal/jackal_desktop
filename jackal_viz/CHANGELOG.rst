@@ -2,6 +2,17 @@
 Changelog for package jackal_viz
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+Forthcoming
+-----------
+* View diagnostics with rqt_robot_monitor
+* Fixed jackal_desktop metapackage
+  Added maintainers
+* Added rviz configurations for slam and nav2
+  Updated launch files
+  Removed ROS1 files
+* ROS 2 Port
+* Contributors: David V. Lu, Roni Kreinin
+
 0.4.1 (2022-01-16)
 ------------------
 * Updated jackal_viz (`#3 <https://github.com/jackal/jackal_desktop/issues/3>`_)
