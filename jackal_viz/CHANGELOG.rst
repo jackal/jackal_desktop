@@ -2,8 +2,8 @@
 Changelog for package jackal_viz
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+1.0.1 (2022-09-29)
+------------------
 * [jackal_viz] Changes rviz to rviz2.
 * Contributors: Tony Baltovski
 
