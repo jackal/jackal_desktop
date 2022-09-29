@@ -19,7 +19,7 @@
   <exec_depend>rqt_console</exec_depend>
   <exec_depend>rqt_gui</exec_depend>
   <exec_depend>rqt_robot_monitor</exec_depend>
-  <exec_depend>rviz</exec_depend>
+  <exec_depend>rviz2</exec_depend>
 
   <export>
     <build_type>ament_cmake</build_type>
