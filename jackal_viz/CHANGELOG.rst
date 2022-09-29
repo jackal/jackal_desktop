@@ -2,6 +2,11 @@
 Changelog for package jackal_viz
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+Forthcoming
+-----------
+* [jackal_viz] Changes rviz to rviz2.
+* Contributors: Tony Baltovski
+
 1.0.0 (2022-09-29)
 ------------------
 * View diagnostics with rqt_robot_monitor
