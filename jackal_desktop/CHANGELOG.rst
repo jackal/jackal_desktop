@@ -2,8 +2,8 @@
 Changelog for package jackal_desktop
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+1.0.0 (2022-09-29)
+------------------
 * Fixed jackal_desktop metapackage
   Added maintainers
 * ROS 2 Port

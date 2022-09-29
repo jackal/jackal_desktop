@@ -2,8 +2,8 @@
 Changelog for package jackal_viz
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+1.0.0 (2022-09-29)
+------------------
 * View diagnostics with rqt_robot_monitor
 * Fixed jackal_desktop metapackage
   Added maintainers
